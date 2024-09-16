@@ -1,0 +1,25 @@
+body {
+    background-color:#d8e1f2 !important ;
+}
+
+.qr-card {
+    margin:auto;
+    top: 90px;
+    border-radius: 5% !important;
+    width:15rem !important;
+}
+
+.qr-image {
+    width: 5% !important;
+}
+
+.qr-title {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.qr-text {
+    font-size: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+}
